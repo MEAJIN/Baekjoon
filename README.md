@@ -1,2 +1,11 @@
-# Baekjoon
-wlsWkgkrltlfgek zheldsjantlfgek wlsWk..gk..
+# Baekjoon <br>
+
+* 전
+* 컴공이지만
+* 코딩이
+* 세상에서
+* 제일
+* 싫습니다.
+* 그치만
+* 취업은
+* 좋습니다.
