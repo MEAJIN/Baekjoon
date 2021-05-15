@@ -1,0 +1,7 @@
+a, b= map(int,input().split())
+
+print(a+b)
+print(a-b)
+print(a*b)
+print(a//b)  # //는 소수점 아래 값은 다 버리고 정수만 출력, /는 소수점 까지 모두 출력
+print(a%b)
