@@ -9,7 +9,7 @@ for i in range(10):
   all_multiplication_count = all_multiplication_str.count(str(i))
   print(all_multiplication_count)
 
-  #2
+#2
 total = 1
 for _ in range(3):
     i = int(input())
