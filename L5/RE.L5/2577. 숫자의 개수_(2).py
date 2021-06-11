@@ -1,3 +1,4 @@
+#2
 num = 1
 for i in range(3):
   i = int(input())
