@@ -1,16 +1,7 @@
-#1
-n = int(input())
-quiz = []
-for i in range(n):
-  quiz.append(input())
-  a = str(quiz)
-
-#1.1
 n = int(input())
 for i in range(n):
   quiz = list(input())
 
-##
 score = 0 
 total_s = 0
 for i in a:
