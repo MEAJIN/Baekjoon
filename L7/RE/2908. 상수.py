@@ -1,4 +1,4 @@
-a,b = list(map(str, input().split()))
+a,b = map(str, input().split())
 a_back = a[::-1]
 b_back = b[::-1]
 
